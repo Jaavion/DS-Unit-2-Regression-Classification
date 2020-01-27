@@ -1,1 +1,1 @@
-# DS-Unit-2-Linear-Models
+# DS-Unit-2-Regression-Classification
